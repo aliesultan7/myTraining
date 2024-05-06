@@ -1,0 +1,9 @@
+ESP-OTA merupakan singkatan dari "ESP Over-The-Air" atau "Espressif Over-The-Air". Ini adalah fitur yang memungkinkan pembaruan perangkat lunak (firmware) pada mikrokontroler ESP8266 dan ESP32 secara nirkabel, tanpa perlu menghubungkan perangkat ke komputer atau menggunakan kabel untuk pemrograman.
+
+Fitur ESP-OTA sangat bermanfaat dalam pengembangan aplikasi IoT karena memungkinkan pembaruan perangkat lunak secara fleksibel dan mudah, bahkan setelah perangkat telah diimplementasikan di lapangan atau di lokasi yang sulit dijangkau. Beberapa hal yang perlu diperhatikan tentang ESP-OTA:
+
+Nirkabel: Pembaruan perangkat lunak dapat dilakukan melalui koneksi Wi-Fi, sehingga tidak perlu menggunakan kabel atau menyambungkan perangkat ke komputer.
+Fleksibel: ESP-OTA memungkinkan pembaruan perangkat lunak dari jarak jauh, asalkan perangkat terhubung ke jaringan Wi-Fi yang sesuai.
+Aman: Espressif telah memperhatikan keamanan dalam implementasi ESP-OTA. Protokol ini mendukung tanda tangan digital untuk memastikan bahwa firmware yang diunduh adalah dari sumber yang tepercaya dan tidak dimodifikasi oleh pihak yang tidak berwenang.
+Mudah diimplementasikan: Espressif menyediakan pustaka perangkat lunak (library) untuk mendukung ESP-OTA, yang membuatnya relatif mudah diimplementasikan dalam proyek-proyek pengembangan perangkat IoT.
+Dengan fitur ESP-OTA, pengembang dapat mengurangi kompleksitas pemeliharaan dan pembaruan perangkat IoT, karena mereka dapat memperbarui firmware perangkat dari jarak jauh, tanpa perlu mengganggu operasi normal perangkat atau mengambil perangkat fisik untuk diperbarui secara manual.
