@@ -1,0 +1,7 @@
+1. Pahami cara pakai github (pull/ push/ branch/ repository dan lain”)
+2. ⁠Pahami ESP_NOW
+3. ⁠Pahami ESP_Update_OTA
+4. ⁠Pahami protocol RF 433Mhz (baik dari code maupun hardwarenya)
+5. ⁠Pahami HTTP/HTTPS Request (karena sering download data dari server)
+6. ⁠Pahami protocol MQTT (Subcribe/Publish)
+7. ⁠Pahami Partitions memory pada ESP32
